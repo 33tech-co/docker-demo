@@ -19,7 +19,8 @@
 
 ## Docker-compose
 docker-compose is try to build a very famous CMS **Wordpress**, we will create a wordpress app & mysql-db. this is a simple demo to show you how docker-compose works.
-    ```
+
+   ```
     docker-compose up -d
     docker-compose down -v
-    ```    
+   ``` 
